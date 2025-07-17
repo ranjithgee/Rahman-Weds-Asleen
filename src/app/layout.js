@@ -20,7 +20,15 @@ export const metadata = {
     title: 'Rahman Weds Asleen',
     description: 'Join us on our special day and be part of the celebration!',
     siteName: 'Rahman Weds Asleen',
-    type: 'website'
+    type: 'website',
+    images: [
+      {
+        url: 'https://rahman-weds-asleen.vercel.app/assets/wedding/img4.jpg',
+        width: 600,
+        height: 750,
+        alt: 'Wedding Banner',
+      },
+    ]
   }
 };
 
