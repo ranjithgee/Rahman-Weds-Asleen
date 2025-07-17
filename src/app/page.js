@@ -37,8 +37,8 @@ export default function Home() {
                         <div className="story-caption">
                             <img src="/assets/img/our_story/flower_right.png" alt="" />
                             <h3>Our Story</h3>
-                            <p className="story1">The first time I saw him, we were both sitting at the same gate for a flight to San Diego. I remember glancing over at him and thinking, Oh, wow, he’s cute. When I got to my seat, I saw that the seat beside me was empty and thought, how awesome would it be if he ended up next to me?</p>
-                            <p className="story2">Well, he did. We started talking, and then he asked for my number and we went our separate ways. I was certain I would never hear from him again.</p>
+                            <p className="story2">Rahman from Thanjavur and Asleen from Madurai didn’t meet in some dramatic movie scene — they met the classic way: Matrimony.com (because love starts with a login these days). After a few “Hi, hello, what’s your native?” conversations and the usual family-level FBI background checks, they finally met in person — and shockingly, they actually liked each other.</p>
+                            <p className="story2">What began as an “arranged formality” slowly turned into real feelings (who knew, right?). Now they’re all set to prove that even a matrimony match can come with a happily ever after — sarcasm, spice, and all.</p>
                         </div>
                     </div>
                 </div>
