@@ -55,7 +55,7 @@ export default function Home() {
                         <div className="singl-services text-center mb-60">
                             <div className="top-caption">
                                 <h4>Nikkah</h4>
-                                <p>August 31, 2025</p>
+                                <p>31st August, 2025</p>
                             </div>
                             <div className="services-img">
                                 <Image src="/assets/wedding/img4.jpg" width={257} height={257} alt="nikkah" className="nik_img"/>
@@ -65,7 +65,25 @@ export default function Home() {
                             </div>
                             <div className="bottom-caption">
                                 <span>10:00AM - 11:45AM</span>
-                                <p>PR Marriage Hall<br /> NMS Nagar, Kadachaneanthai Road, Madurai</p>
+                                <p className="max-w-[300px] mx-auto">PR Marriage Hall<br /> NMS Nagar, Kadachaneanthai Road, Madurai</p>
+                            </div>
+                        </div> 
+                    </div>
+                    <div className="col-lg-4">
+                        <div className="singl-services text-center mb-60">
+                            <div className="top-caption">
+                                <h4>Reception</h4>
+                                <p>7th September, 2025</p>
+                            </div>
+                            <div className="services-img">
+                                <Image src="/assets/wedding/img6.jpg" width={257} height={257} alt="nikkah" className="nik_img"/>
+                                <div className="back-flower">
+                                    <img src="/assets/img/service/services_flower1.png" alt="" />
+                                </div>
+                            </div>
+                            <div className="bottom-caption">
+                                <span>11:00AM - 3:00PM</span>
+                                <p className="max-w-[300px] mx-auto">Vijay Mahal<br /> Cholan Nagar, Opp. to RTO Office, Pillayarpatti Post, Vallam, Thanjavur</p>
                             </div>
                         </div> 
                     </div>
